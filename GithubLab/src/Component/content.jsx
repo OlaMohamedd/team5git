@@ -3,7 +3,10 @@ import React from 'react'
 export default function Content() {
   return (
     <> 
-    <p>Fatema Alsayed</p>
+
+
+    <h2>Fatema Alsayed</h2>
+
      </>
   )
 }

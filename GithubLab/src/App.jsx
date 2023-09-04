@@ -1,6 +1,6 @@
 
 import Navbar from './Component/Navbar/Navbar'
-import Content from './Component/content'
+import Content from './Component/Fatema/content'
 
 function App() {
 

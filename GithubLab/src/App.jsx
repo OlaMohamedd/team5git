@@ -1,5 +1,6 @@
 
 import Navbar from './Component/Navbar/Navbar'
+import Content from './Component/content'
 
 function App() {
 
@@ -7,6 +8,12 @@ function App() {
   return (
     <>
      <Navbar/>
+
+
+
+
+
+     <Content/>
     </>
   )
 }

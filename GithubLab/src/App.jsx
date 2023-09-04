@@ -1,5 +1,6 @@
 
 import Navbar from './Component/Navbar/Navbar'
+import About from './Component/Abdullah/about';
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
      <Navbar/>
+     <About/>
     </>
   )
 }
